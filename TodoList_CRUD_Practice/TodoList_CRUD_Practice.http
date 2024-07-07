@@ -1,0 +1,6 @@
+@TodoList_CRUD_Practice_HostAddress = http://localhost:5161
+
+GET {{TodoList_CRUD_Practice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
